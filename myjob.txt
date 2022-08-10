@@ -8,7 +8,7 @@ Responsibilities and Duties:
     >an all around developer
     เป็นนักพัฒนารอบด้านทั้งหมด
     >develop front-end, back-end, web services, and mobile apps
-    พัฒนา front-end, back-end, บริการเว็บและแอพมือถือ
+    สามารถพัฒนา front-end, back-end, บริการเว็บและแอพมือถือ
     >javascript, node.js, html5, angular.js, swift, java, and more
     สามารถเขียน javascript, node.js, html5, angular.js, swift, java และอื่นๆได้
 
