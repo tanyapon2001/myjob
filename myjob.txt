@@ -1,14 +1,16 @@
 Full Stack Software Developer
-ตำแหน่ง ฟุลแสต็คซอฟต์แวร์
+ฟุลแสต็คซอฟต์แวร์
 Primo World Co., Ltd
 
 Responsibilities and Duties:
+หน้าที่รับผิดชอบ
 
     >an all around developer
     >develop front-end, back-end, web services, and mobile apps
     >javascript, node.js, html5, angular.js, swift, java, and more
 
 Qualifications:
+คุณสมบัติที่ต้องการ
 
     >Bachelor’s Degree or higher in Computer Engineering, Computer Science, Information Technology or related fields
     >Some experiences in web or mobile application programming, fresh graduate with related experience are welcome.
