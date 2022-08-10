@@ -6,14 +6,21 @@ Responsibilities and Duties:
 หน้าที่รับผิดชอบ
 
     >an all around developer
+    เป็นนักพัฒนารอบด้านทั้งหมด
     >develop front-end, back-end, web services, and mobile apps
+    พัฒนา front-end, back-end, บริการเว็บและแอพมือถือ
     >javascript, node.js, html5, angular.js, swift, java, and more
+    สามารถเขียน javascript, node.js, html5, angular.js, swift, java และอื่นๆได้
 
 Qualifications:
 คุณสมบัติที่ต้องการ
 
     >Bachelor’s Degree or higher in Computer Engineering, Computer Science, Information Technology or related fields
+    วุฒิปริญญาตรีขึ้นไป สาขาวิศวกรรมคอมพิวเตอร์ วิทยาการคอมพิวเตอร์ เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง
     >Some experiences in web or mobile application programming, fresh graduate with related experience are welcome.
+    มีประสบการณ์ในการเขียนโปรแกรมเว็บหรือแอปพลิเคชั่นมือถือ, ยินดีรับนักศึกษาจบใหม่หรือที่มีประสบการณ์ที่เกี่ยวข้อง
     >Highly motivated and able to deal and handle difficult situations and work under time constraint
+    มีแรงจูงใจสูงและสามารถจัดการกับสถานการณ์ที่ยากในการทำงานและสามารถทำงานภายใต้ในเวลาที่กำหนดได้
+
 
 
